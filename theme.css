@@ -1139,3 +1139,8 @@ A:hover .pwg-icon 							{ background-image: url(icons_sprite-hover.png);}
 .date_posted-option input:checked + label .checked-icon{
   margin-top:0;
 }
+
+.search-result-item {
+  background-color: #333333;
+  color: #bbbbbb;
+}
